@@ -1,16 +1,12 @@
-# rudra_dashboard
+# Dashboard Application
 
-A new Flutter project.
+- This application is made using flutter and dart. This app aims to create a "one stop" for everything for smartphone users.
+- The project was developed in Flutter, which is a cross-platform development tool for Andriod and iOS. Flutter can be written in C, C++, or Dart, for this project we used Dart as the primary programming language.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features of the Application
+- Pedometer(Step Counter)
+- Weather(Displays your local weather)
+- [WIP]Note Taking()
+- [WIP]Reminders
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
