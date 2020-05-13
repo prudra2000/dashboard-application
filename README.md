@@ -7,6 +7,6 @@
 ## Features of the Application
 - Pedometer(Step Counter)
 - Weather(Displays your local weather)
-- [WIP]Note Taking()
+- [WIP]Note Taking
 - [WIP]Reminders
 
